@@ -12,7 +12,7 @@ This is the personal portfolio of **Shashikant Mundhe**, a Salesforce Developer 
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio](http://127.0.0.1:5500/index.html#hero)
+🔗 [View Portfolio](https://shashikant-portfolio-phi.vercel.app/)
 
 
 ---
